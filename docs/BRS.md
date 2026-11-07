@@ -29,7 +29,7 @@ in a router or SD-WAN device, security controls, real link measurements.
 ## 5. Constraints and assumptions
 - All link parameters, cost units and fault statistics are assumed (docs/SRS.md section 6).
 - Failover speed depends on link-layer fault signalling (for example BFD), which is a parameter here.
-- A patent attorney must review before any publication of method details.
+- Do not publish method details covered by filed claims.
 
 ## 6. Success measures (to be measured on real links)
 Critical-stream availability, packets lost per fault, time to recover per fault type, cost per month
